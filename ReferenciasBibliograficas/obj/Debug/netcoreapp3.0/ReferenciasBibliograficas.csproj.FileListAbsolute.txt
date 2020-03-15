@@ -1,0 +1,22 @@
+C:\Users\319005\Desktop\ReferenciasBibliograficas\ReferenciasBibliograficas\bin\Debug\netcoreapp3.0\ReferenciasBibliograficas.exe
+C:\Users\319005\Desktop\ReferenciasBibliograficas\ReferenciasBibliograficas\bin\Debug\netcoreapp3.0\ReferenciasBibliograficas.deps.json
+C:\Users\319005\Desktop\ReferenciasBibliograficas\ReferenciasBibliograficas\bin\Debug\netcoreapp3.0\ReferenciasBibliograficas.runtimeconfig.json
+C:\Users\319005\Desktop\ReferenciasBibliograficas\ReferenciasBibliograficas\bin\Debug\netcoreapp3.0\ReferenciasBibliograficas.runtimeconfig.dev.json
+C:\Users\319005\Desktop\ReferenciasBibliograficas\ReferenciasBibliograficas\bin\Debug\netcoreapp3.0\ReferenciasBibliograficas.dll
+C:\Users\319005\Desktop\ReferenciasBibliograficas\ReferenciasBibliograficas\bin\Debug\netcoreapp3.0\ReferenciasBibliograficas.pdb
+C:\Users\319005\Desktop\ReferenciasBibliograficas\ReferenciasBibliograficas\obj\Debug\netcoreapp3.0\ReferenciasBibliograficas.csprojAssemblyReference.cache
+C:\Users\319005\Desktop\ReferenciasBibliograficas\ReferenciasBibliograficas\obj\Debug\netcoreapp3.0\ReferenciasBibliograficas.AssemblyInfoInputs.cache
+C:\Users\319005\Desktop\ReferenciasBibliograficas\ReferenciasBibliograficas\obj\Debug\netcoreapp3.0\ReferenciasBibliograficas.AssemblyInfo.cs
+C:\Users\319005\Desktop\ReferenciasBibliograficas\ReferenciasBibliograficas\obj\Debug\netcoreapp3.0\ReferenciasBibliograficas.dll
+C:\Users\319005\Desktop\ReferenciasBibliograficas\ReferenciasBibliograficas\obj\Debug\netcoreapp3.0\ReferenciasBibliograficas.pdb
+C:\Users\lucas\Desktop\Teste atual\ReferenciasBibliograficas\ReferenciasBibliograficas\obj\Debug\netcoreapp3.0\ReferenciasBibliograficas.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Teste atual\ReferenciasBibliograficas\ReferenciasBibliograficas\obj\Debug\netcoreapp3.0\ReferenciasBibliograficas.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Teste atual\ReferenciasBibliograficas\ReferenciasBibliograficas\obj\Debug\netcoreapp3.0\ReferenciasBibliograficas.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Teste atual\ReferenciasBibliograficas\ReferenciasBibliograficas\obj\Debug\netcoreapp3.0\ReferenciasBibliograficas.dll
+C:\Users\lucas\Desktop\Teste atual\ReferenciasBibliograficas\ReferenciasBibliograficas\obj\Debug\netcoreapp3.0\ReferenciasBibliograficas.pdb
+C:\Users\lucas\Desktop\Teste atual\ReferenciasBibliograficas\ReferenciasBibliograficas\bin\Debug\netcoreapp3.0\ReferenciasBibliograficas.exe
+C:\Users\lucas\Desktop\Teste atual\ReferenciasBibliograficas\ReferenciasBibliograficas\bin\Debug\netcoreapp3.0\ReferenciasBibliograficas.deps.json
+C:\Users\lucas\Desktop\Teste atual\ReferenciasBibliograficas\ReferenciasBibliograficas\bin\Debug\netcoreapp3.0\ReferenciasBibliograficas.runtimeconfig.json
+C:\Users\lucas\Desktop\Teste atual\ReferenciasBibliograficas\ReferenciasBibliograficas\bin\Debug\netcoreapp3.0\ReferenciasBibliograficas.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\Teste atual\ReferenciasBibliograficas\ReferenciasBibliograficas\bin\Debug\netcoreapp3.0\ReferenciasBibliograficas.dll
+C:\Users\lucas\Desktop\Teste atual\ReferenciasBibliograficas\ReferenciasBibliograficas\bin\Debug\netcoreapp3.0\ReferenciasBibliograficas.pdb
