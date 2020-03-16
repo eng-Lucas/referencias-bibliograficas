@@ -46,6 +46,8 @@ namespace ReferenciasBibliograficas
             }
             else
                 Console.WriteLine("Digite apenas números");
+            
+            Console.ReadKey();
         }
     }
 }
